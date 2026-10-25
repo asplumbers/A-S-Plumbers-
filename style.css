@@ -26,3 +26,4 @@ a.card{display:block;color:inherit}a.area{color:var(--ink)}.sub .heroin{grid-tem
 .prose h3{margin:26px 0 4px;font-size:20px}.prose a{color:var(--blue);font-weight:700}
 .card ul{margin:10px 0 0;padding-left:18px;color:var(--muted);font-size:15px}.card li{margin:5px 0}
 img.logo{width:52px;height:52px;border-radius:10px;background:#fff;object-fit:contain;box-shadow:none;display:block}
+.heroCard h2{font-size:25px;margin:0 0 5px}
